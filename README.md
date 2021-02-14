@@ -1,4 +1,5 @@
-![](./static/21_02_14_1742_2.png)
+<img src="https://github.com/brave-people/Dev-Event-Subscribe/blob/main/static/21_02_14_1742_2.png?raw=true">
+
 
 <br />
 <div align=center>
@@ -8,13 +9,17 @@
 </div>
 <br />
 
-![](./static/faq_white.png)
+-------------
+
+<img src="https://github.com/brave-people/Dev-Event-Subscribe/blob/main/static/faq_white.png?raw=true">
+
+-------------
 
 ### Q. 어떤 메일을 보내주나요?
 
-![](./static/email.png)
+<img src="https://github.com/brave-people/Dev-Event-Subscribe/blob/main/static/email.png?raw=true">
 
-- [Dev Event](https://github.com/brave-people/Dev-Event) 4주 개발자 행사를 보내줍니다!
+- [Dev Event](https://github.com/brave-people/Dev-Event)에 등록된 4주 개발자 행사를 보내줍니다!
 
 ### Q. 언제 메일을 보내주나요?
 
@@ -27,3 +32,17 @@
 ### Q. 원리가 무엇인가요?
 
 - [Dev Event](https://github.com/brave-people/Dev-Event) 1달 행사를 크롤링하여서 현재 저장소에(Dev-Event-Subscribe)에 Issue 등록해 줍니다. Watch를 하면 Issue에 등록된 내용이 메일로 알림이 가는 원리입니다! 
+
+
+### Q. 문의는 어디로 보내면 되나요?!
+
+- 개선사항 기타 의견은 [21300035@handong.edu](https://github.com/KoEonYack)로 보내주세요!
+
+
+--------
+
+<div align=center>
+<h3> 용감한 친구들 with 남송리 삼번지 </h3>
+</div>
+
+--------
