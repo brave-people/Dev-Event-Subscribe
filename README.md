@@ -4,8 +4,6 @@
 <br />
 <div align=center>
  <h1> 📧  매주 메일로 받아보는 Dev Event </h1>
-
- 본 메일링 서비스는 [@Limm-jk](https://github.com/Limm-jk)의 기여로 만들어졌습니다. 감사합니다🙏
 </div>
 <br />
 
